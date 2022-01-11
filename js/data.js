@@ -4,7 +4,7 @@ var data = {
   ],
   bio: [
     {name: 'Name', value: 'Aravind P'},
-    {name: 'Email', value: 'catcharaind18@gmail.com'},
+    {name: 'Email', value: 'catcharavind18@gmail.com'},
     {name: 'Phone', value: '9344370715'},
     {name: 'Country', value: 'India'},
     {name: 'City', value: 'Chennai'}
